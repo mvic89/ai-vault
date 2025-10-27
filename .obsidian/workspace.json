@@ -28,16 +28,11 @@
             "id": "7d9669c14e0491ba",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Motorcycle Booking Engine Project/Mindmap.canvas",
-                "viewState": {
-                  "x": 3679.5,
-                  "y": 2920,
-                  "zoom": -3.9987467339639164
-                }
+                "file": "Motorcycle Booking Engine Project/Mindmap.png"
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-image",
               "title": "Mindmap"
             }
           }
@@ -192,8 +187,9 @@
   },
   "active": "7d9669c14e0491ba",
   "lastOpenFiles": [
-    "Motocycle Booking Engine Notes.md",
     "Motorcycle Booking Engine Project/Mindmap.canvas",
+    "Motorcycle Booking Engine Project/Mindmap.png",
+    "Motocycle Booking Engine Notes.md",
     "Welcome.md",
     "Motorcycle Booking Engine Project"
   ]
