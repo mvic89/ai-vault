@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "e4ba1745ed2c41cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "96bf031b759a3464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec18eeae4db97368",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Motorcycle Booking Engine Project/Mindmap.canvas",
+                "viewState": {
+                  "x": -266.89207828958183,
+                  "y": 3388.369316068245,
+                  "zoom": -2.6666666666666665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mindmap"
+            }
+          },
+          {
+            "id": "7d9669c14e0491ba",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Motorcycle Booking Engine Project/Mindmap.canvas",
+                "viewState": {
+                  "x": 3679.5,
+                  "y": 2920,
+                  "zoom": -3.9987467339639164
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mindmap"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f90d60f03f22794c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f9d1290001490a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e744c21f2932dc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aff356afccb09c79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0cbea02bcbc2c9c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "c79b15d7f3420476",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad7a7944aea3ef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "359f2a0beb12d363",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Motorcycle Booking Engine Project/Mindmap.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mindmap"
+            }
+          },
+          {
+            "id": "f03c464de254f463",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Motorcycle Booking Engine Project/Mindmap.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mindmap"
+            }
+          },
+          {
+            "id": "4b4dcfde4088df13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4a60e69595ddeff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Motorcycle Booking Engine Project/Mindmap.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mindmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7d9669c14e0491ba",
+  "lastOpenFiles": [
+    "Motocycle Booking Engine Notes.md",
+    "Motorcycle Booking Engine Project/Mindmap.canvas",
+    "Welcome.md",
+    "Motorcycle Booking Engine Project"
+  ]
+}
