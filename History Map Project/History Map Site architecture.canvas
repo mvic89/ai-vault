@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"03a1410a82180bd9","type":"text","text":"History Map Site Architecture","x":-160,"y":-260,"width":260,"height":60},
+		{"id":"226399bb8a941fc8","type":"text","text":"Historisk händelse","x":-155,"y":-100,"width":250,"height":60},
+		{"id":"abbd63c698d3df5f","type":"text","text":"Karta (Utan Namngivning på platser)","x":-185,"y":60,"width":310,"height":55},
+		{"id":"dfaf73a0836f5613","type":"text","text":"Popup med Fråga: (Placera ut pin på plats-x)","x":-155,"y":210,"width":250,"height":60},
+		{"id":"ab3057dc650cc943","type":"text","text":"Följdfrågor kopplat till platsen/ämnet","x":-154,"y":370,"width":250,"height":60},
+		{"id":"d593cd90697282fd","type":"text","text":"Svårighetsgrad?\nLätt Medel Svårt (Herman Lindkvist?)","x":220,"y":-108,"width":310,"height":77},
+		{"id":"6d65b94e61587a91","x":-554,"y":-99,"width":250,"height":60,"type":"text","text":"Ex. WW1, WW2 etc."},
+		{"id":"2ff4778d15c16f57","x":-820,"y":59,"width":375,"height":211,"type":"text","text":"Karta:\n -  Pinpoint med radie baserat på poäng\n - Pinpointern startpunkt randomiseras i förhållande till måltavlan.\n - Kartinfo + frågeinfo hämtas från groq (API nyckel finns)"},
+		{"id":"0bcdccd27a9255f5","x":-820,"y":322,"width":250,"height":156,"type":"text","text":"Följdfrågor bör koppas till vad som händer på platsen.\nEx. Pearl Harbor. Då är det frågor kopplat till den händelsen."},
+		{"id":"7da1252c5e7cb33e","type":"text","text":"Samla ihop poäng. (Poängtavla? kanske)\n(Skriv ditt namn)","x":-176,"y":520,"width":294,"height":119},
+		{"id":"6370086268fc6680","x":-820,"y":-380,"width":250,"height":180,"type":"text","text":"Techstack:\n-  Netxt.js\n-  Typescript\n-  Tailwind CSS\n-   Additional Modules"}
+	],
+	"edges":[
+		{"id":"cf1ecd0129b97571","fromNode":"03a1410a82180bd9","fromSide":"bottom","toNode":"226399bb8a941fc8","toSide":"top"},
+		{"id":"56698a0e9e489ca3","fromNode":"226399bb8a941fc8","fromSide":"bottom","toNode":"abbd63c698d3df5f","toSide":"top"},
+		{"id":"34bdd4946b6d48a8","fromNode":"abbd63c698d3df5f","fromSide":"bottom","toNode":"dfaf73a0836f5613","toSide":"top"},
+		{"id":"6bef4b831de6cf66","fromNode":"dfaf73a0836f5613","fromSide":"bottom","toNode":"ab3057dc650cc943","toSide":"top"},
+		{"id":"5527266dd4a1a103","fromNode":"ab3057dc650cc943","fromSide":"bottom","toNode":"7da1252c5e7cb33e","toSide":"top"},
+		{"id":"9f84ff2c5d335eef","fromNode":"226399bb8a941fc8","fromSide":"right","toNode":"d593cd90697282fd","toSide":"left"},
+		{"id":"dedf2430a9786695","fromNode":"d593cd90697282fd","fromSide":"bottom","toNode":"abbd63c698d3df5f","toSide":"right"},
+		{"id":"cd5bcbfef5fbeae2","fromNode":"226399bb8a941fc8","fromSide":"left","toNode":"6d65b94e61587a91","toSide":"right"},
+		{"id":"932863628200bcc8","fromNode":"abbd63c698d3df5f","fromSide":"left","toNode":"2ff4778d15c16f57","toSide":"right"},
+		{"id":"93c3150e16d006a0","fromNode":"dfaf73a0836f5613","fromSide":"left","toNode":"2ff4778d15c16f57","toSide":"right"},
+		{"id":"5982a02d80f1a169","fromNode":"ab3057dc650cc943","fromSide":"left","toNode":"0bcdccd27a9255f5","toSide":"right"}
+	]
+}

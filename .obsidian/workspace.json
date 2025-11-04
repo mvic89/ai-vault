@@ -13,44 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motocycle Booking Engine Notes.md",
+                "file": "History Map Project/History Map Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motocycle Booking Engine Notes"
+              "title": "History Map Notes"
             }
           },
           {
-            "id": "9df34eb865ba1574",
+            "id": "ff83a2719792d1d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Motocycle Booking Engine Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "History Map Project/History Map Site architecture.canvas",
+                "viewState": {
+                  "x": -53.29464913487185,
+                  "y": 147.81576377860026,
+                  "zoom": -0.7745537096505037
+                }
               },
-              "icon": "lucide-file",
-              "title": "Motocycle Booking Engine Notes"
-            }
-          },
-          {
-            "id": "976bdeb24179b61c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motorcycle Booking Engine Site Structure/8. Quick-start.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Quick-start.md"
+              "icon": "lucide-layout-dashboard",
+              "title": "History Map Site architecture"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 227.5
   },
   "right": {
     "id": "c79b15d7f3420476",
@@ -198,22 +187,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "976bdeb24179b61c",
+  "active": "ff83a2719792d1d1",
   "lastOpenFiles": [
-    "Motorcycle Booking Engine Site Structure/7. Usage-examples.md.md",
+    "History Map Project/History Map Notes.md",
+    "History Map Project/History Map Site architecture.canvas",
+    "Motorcycle Booking Engine Project/Mindmap.canvas",
+    "Motocycle Booking Engine Notes.md",
+    "Motorcycle Booking Engine Site Structure/1. Start-here.txt.md",
+    "Motorcycle Booking Engine Directory Structure.canvas",
+    "Motorcycle Booking Engine Site Structure/3. Integration-guide.md.md",
+    "History Map Project",
+    "Motorcycle Booking Engine Site Structure/2. File-list.txt.md",
     "Motorcycle Booking Engine Site Structure/8. Quick-start.md.md",
+    "Motorcycle Booking Engine Site Structure/7. Usage-examples.md.md",
     "Motorcycle Booking Engine Site Structure/6. Readme.md.md",
     "Motorcycle Booking Engine Site Structure/5. Workflow-diagram.md.md",
     "Motorcycle Booking Engine Site Structure/4. Project-readme.md.md",
-    "Motorcycle Booking Engine Site Structure/3. Integration-guide.md.md",
-    "Motorcycle Booking Engine Site Structure/2. File-list.txt.md",
-    "Motorcycle Booking Engine Site Structure/1. Start-here.txt.md",
-    "Motorcycle Booking Engine Directory Structure.canvas",
     "Motorcycle Booking Engine Site Structure.md",
     "Motorcycle Booking Engine Site Structure",
-    "Motocycle Booking Engine Notes.md",
     "Claude prompting guide.md",
-    "Motorcycle Booking Engine Project/Mindmap.canvas",
     "Motorcycle Booking Engine Project/Mindmap.png",
     "Welcome.md",
     "Motorcycle Booking Engine Project"
