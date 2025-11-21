@@ -39,21 +39,49 @@
             "id": "45ff2f0a97ab86ce",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motocycle Booking Engine Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motocycle Booking Engine Notes"
+            }
+          },
+          {
+            "id": "0ef0bad162528689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motorcycle Repair Booking Engine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motorcycle Repair Booking Engine"
+            }
+          },
+          {
+            "id": "f5ec8bec13f27437",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "AI-agents/AI-Agent structure.canvas",
+                "file": "History Map Project/History Map Site architecture.canvas",
                 "viewState": {
-                  "x": 5348.854786685932,
-                  "y": 3981.4323322136893,
-                  "zoom": -1.1102230246251565e-16
+                  "x": -145,
+                  "y": 129.5,
+                  "zoom": -0.22054877614570698
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "AI-Agent structure"
+              "title": "History Map Site architecture"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "c79b15d7f3420476",
@@ -202,18 +229,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "45ff2f0a97ab86ce",
+  "active": "f5ec8bec13f27437",
   "lastOpenFiles": [
-    "Motorcycle Booking Engine - Rapport.md",
+    "History Map Project/History Map prompt.md",
+    "History Map Project/History Map Notes.md",
     "AI-agents/AI-Agent structure.canvas",
-    "AI-agents",
     "Motocycle Booking Engine Notes.md",
-    "Motorcycle Booking Engine Project/Mindmap.png",
+    "Motorcycle Repair Booking Engine.md",
+    "History Map Project/History Map Site architecture.canvas",
     "Motorcycle Booking Engine Project/Mindmap.canvas",
     "Motorcycle Booking Engine Directory Structure.canvas",
+    "Motorcycle Booking Engine - Rapport.md",
     "Motorcycle Booking Engine Site Structure/1. Start-here.txt.md",
-    "History Map Project/History Map Site architecture.canvas",
-    "History Map Project/History Map Notes.md",
+    "AI-agents",
+    "Motorcycle Booking Engine Project/Mindmap.png",
     "Motorcycle Booking Engine Site Structure/3. Integration-guide.md.md",
     "History Map Project",
     "Motorcycle Booking Engine Site Structure/2. File-list.txt.md",
