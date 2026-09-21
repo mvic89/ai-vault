@@ -4,84 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "96bf031b759a3464",
+        "id": "33f17289de198f22",
         "type": "tabs",
         "children": [
           {
-            "id": "f49bc8dd26e048b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History Map Project/History Map Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "History Map Notes"
-            }
-          },
-          {
-            "id": "ff83a2719792d1d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motocycle Booking Engine Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Motocycle Booking Engine Notes"
-            }
-          },
-          {
-            "id": "45ff2f0a97ab86ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motocycle Booking Engine Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Motocycle Booking Engine Notes"
-            }
-          },
-          {
-            "id": "0ef0bad162528689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motorcycle Repair Booking Engine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Motorcycle Repair Booking Engine"
-            }
-          },
-          {
-            "id": "f5ec8bec13f27437",
+            "id": "2644c3a84e26c29d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "History Map Project/History Map Site architecture.canvas",
+                "file": "AI Coach Hackathon/Hackathon mindmap.canvas",
                 "viewState": {
-                  "x": -145,
-                  "y": 129.5,
-                  "zoom": -0.22054877614570698
+                  "x": -97.36795639132777,
+                  "y": 1016.0717872014202,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "History Map Site architecture"
+              "title": "Hackathon mindmap"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a88f6abd61f99f33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e53ee8879abc2e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Coach Hackathon/Cecilia Meeting Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cecilia Meeting Notes"
+            }
+          },
+          {
+            "id": "44e0997647a4c9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Coach Hackathon/Hackathon Lab Notes 14-9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hackathon Lab Notes 14-9"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +79,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -138,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 200
   },
   "right": {
     "id": "c79b15d7f3420476",
@@ -229,20 +209,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "f5ec8bec13f27437",
+  "active": "2644c3a84e26c29d",
   "lastOpenFiles": [
+    "AI Coach Hackathon/Hackathon Lab Notes 14-9.md",
+    "AI Coach Hackathon/Hackathon mindmap.canvas",
+    "AI Coach Hackathon/Cecilia Meeting Notes.md",
+    "Pasted image 20260920185124.png",
+    "AI Coach Hackathon/Handelsbanken Brief.md",
+    "AI Coach Hackathon/Hackathon-lab-notes",
+    "History Map Project/History Map Site architecture.canvas",
+    "History Map Project/History Map Site architecture 2.png",
+    "Motorcycle Booking Engine Project/Motocycle Booking Engine Notes.md",
+    "Motorcycle Booking Engine Project/Motorcycle Repair Booking Engine.md",
+    "Motorcycle Booking Engine Project/OSM Data Update Agent.md",
+    "History Map Project/History Map Site architecture.png",
+    "Motorcycle Booking Engine Project/Mindmap.png",
+    "Motorcycle Booking Engine Project/Mindmap.canvas",
+    "History Map Project/History Map Site architecture 1.png",
+    "Motorcycle Booking Engine - Rapport.md",
+    "Motorcycle Booking Engine Directory Structure.canvas",
+    "AI-agents/AI-Agent structure.canvas",
+    "AI Coach Hackathon",
+    "Motorcycle Booking Engine Site Structure/1. Start-here.txt.md",
+    "History Map Project/Geo History Guesser.md",
+    "Images/Pasted image 20251125150212.png",
+    "Images/Pasted image 20251125145909.png",
+    "Images",
+    "Images/Pasted image 20251125150108.png",
+    "Images/Pasted image 20251125150140.png",
+    "Images/Pasted image 20251124210044.png",
+    "Motorcycle Booking Engine Project/Motorcycle Repair Shop Directory.md",
     "History Map Project/History Map prompt.md",
     "History Map Project/History Map Notes.md",
-    "AI-agents/AI-Agent structure.canvas",
-    "Motocycle Booking Engine Notes.md",
-    "Motorcycle Repair Booking Engine.md",
-    "History Map Project/History Map Site architecture.canvas",
-    "Motorcycle Booking Engine Project/Mindmap.canvas",
-    "Motorcycle Booking Engine Directory Structure.canvas",
-    "Motorcycle Booking Engine - Rapport.md",
-    "Motorcycle Booking Engine Site Structure/1. Start-here.txt.md",
     "AI-agents",
-    "Motorcycle Booking Engine Project/Mindmap.png",
     "Motorcycle Booking Engine Site Structure/3. Integration-guide.md.md",
     "History Map Project",
     "Motorcycle Booking Engine Site Structure/2. File-list.txt.md",

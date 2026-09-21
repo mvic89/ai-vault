@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"0a52d3d1cb86f704","x":-360,"y":-340,"width":400,"height":225,"type":"file","file":"Pasted image 20260920185124.png"},
+		{"id":"d2cefb238edf6604","x":-360,"y":-440,"width":250,"height":60,"type":"text","text":"Brief"},
+		{"id":"ba84a5c6c585102e","x":-380,"y":-40,"width":250,"height":180,"type":"text","text":"The solution should help service agents **navigate sensitive situations with empathy** while **maintaining efficiency and consistency.**"},
+		{"id":"1b53672a5e9a8db5","x":-40,"y":320,"width":250,"height":60,"type":"text","text":"##### Process"},
+		{"id":"4a047861027ff1b0","x":-40,"y":440,"width":250,"height":60,"type":"text","text":"1. Spike it"},
+		{"id":"12771b9c09873f94","x":-66,"y":560,"width":303,"height":360,"type":"text","text":"What we see as really high value areas to spend your time on is first of all, something that I've come to appreciate more and more over time is to spike the uncertain things in throwaway code.  It means those things that are uncertain that you're not really sure about how to make work.  Just tell AI, like, let's figure this out, how can we make this work?  And you just try a bunch of things without thinking about code quality or anything."},
+		{"id":"adf1fbcbaf723b4f","x":-560,"y":320,"width":250,"height":180,"type":"text","text":"Identify the hard and uncertain challenges that stand in between you now and a solution that will be successful with the users that will really help them. "},
+		{"id":"1172376799105e10","x":-560,"y":580,"width":250,"height":311,"type":"text","text":"There are some key areas of the solution where there is uncertainty and risk, both in the technology, but also in the user experience and how it fits into the process.  So first identify what such challenge that you're going to address to de risk that from building the real solution."},
+		{"id":"393c6dd806e6628a","x":280,"y":440,"width":250,"height":60,"type":"text","text":"2. Design it"},
+		{"id":"5e07fc58565df523","x":600,"y":440,"width":250,"height":60,"type":"text","text":"3. Walk it through"},
+		{"id":"c8c23b068d5be64b","x":320,"y":620,"width":480,"height":300,"type":"text","text":"When you're working on design like, you know, think again.  How can we structure this in a way that makes more sense?  One of the tools that I found most useful is walkthroughs. And AI is just amazing at generating walkthroughs of your design. So you have these different constructs.  The walkthrough is kind of like, okay, if I were to build a car with these pieces, what would that look like?  How.  How can I put, like, how would these things work together in actually creating a real thing?  So this is even before building any real code, just like asking AI to explain in text or so kind of the walkthrough. "},
+		{"id":"2d19983ef2aa4455","x":920,"y":440,"width":250,"height":60,"type":"text","text":"4. Generate"},
+		{"id":"28a5643be1413a61","x":855,"y":602,"width":380,"height":318,"type":"text","text":"The generation is really the simple part.  It just goes well for the most part, and it's quite quick.  Then we come into reviewing.  And here also, again, use AI to review.  You can just say review after having done some generation, and it will usually find quite a lot of things.  You can ask it to review the code multiple times.  So it will find some things the first time, and then it will have less and less things that it comes up with and then you can move on."},
+		{"id":"a34fa6048b38c4bf","x":1260,"y":440,"width":250,"height":60,"type":"text","text":"5. Review"},
+		{"id":"f3dd0e388a5e3f4f","x":-560,"y":1080,"width":250,"height":600,"type":"text","text":"Cecilia works with training financial advisors who work with customers.\n\nFinancial people are good at finance, not so good with dealing with customers.\nthey don't know how people think and their problems. = lack of empathy\n\nthe training is boring and the financial advisors  usually doesn't give feedback () to the training team, due to feedback usually being done after they've done the training.\n\nThat's why we're creating an AI Coach that helps the financial advisors with their training."},
+		{"id":"23b1fce12c93f414","x":-560,"y":980,"width":250,"height":60,"type":"text","text":"Problem statement"},
+		{"id":"441132965209fff6","x":-560,"y":1780,"width":250,"height":220,"type":"text","text":"Training is viewed as a cost in the daily life for the advisor.\nyou don't get paid for the training, only from the customer meetings."},
+		{"id":"73859e98d86654e6","x":-66,"y":1823,"width":250,"height":135,"type":"text","text":"Having a solution that doesn't feel like it takes away from their daily tasks?"},
+		{"id":"e543b5065fae06b5","x":-66,"y":2040,"width":250,"height":60,"type":"text","text":"Simple fast, easy and direct feedback. Easiliy digestible"},
+		{"id":"0b1c32bfb913fd9f","x":280,"y":1831,"width":250,"height":349,"type":"text","text":"- Real-time feedback\n- Speaking fast needs to be addressed during the meeting (or if the customer is interrupted.)"},
+		{"id":"4e605da277cf5abf","x":280,"y":1720,"width":250,"height":60,"type":"text","text":"Solution"},
+		{"id":"bad6920d6312aa58","x":-40,"y":1140,"width":250,"height":120,"type":"text","text":"What is going to be included in the after section of the coach."}
+	],
+	"edges":[
+		{"id":"80661d2ceab7170f","fromNode":"adf1fbcbaf723b4f","fromSide":"bottom","toNode":"1172376799105e10","toSide":"top"},
+		{"id":"0348632975dc3c25","fromNode":"4a047861027ff1b0","fromSide":"bottom","toNode":"12771b9c09873f94","toSide":"top"},
+		{"id":"391e759f70c8ed01","fromNode":"393c6dd806e6628a","fromSide":"bottom","toNode":"c8c23b068d5be64b","toSide":"top"},
+		{"id":"9eeb7a965b251e67","fromNode":"5e07fc58565df523","fromSide":"bottom","toNode":"c8c23b068d5be64b","toSide":"top"},
+		{"id":"8dc878b463ff4c1d","fromNode":"2d19983ef2aa4455","fromSide":"bottom","toNode":"28a5643be1413a61","toSide":"top"},
+		{"id":"18a8597493312d1b","fromNode":"a34fa6048b38c4bf","fromSide":"bottom","toNode":"28a5643be1413a61","toSide":"top"},
+		{"id":"6584773b31e6be76","fromNode":"23b1fce12c93f414","fromSide":"bottom","toNode":"f3dd0e388a5e3f4f","toSide":"top"},
+		{"id":"a5c987bcab52ccaf","fromNode":"441132965209fff6","fromSide":"right","toNode":"73859e98d86654e6","toSide":"left"},
+		{"id":"ceaa464e384387ae","fromNode":"73859e98d86654e6","fromSide":"bottom","toNode":"e543b5065fae06b5","toSide":"top"},
+		{"id":"a8614fb0fbd2125d","fromNode":"4e605da277cf5abf","fromSide":"bottom","toNode":"0b1c32bfb913fd9f","toSide":"top"}
+	]
+}

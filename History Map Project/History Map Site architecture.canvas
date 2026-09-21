@@ -6,11 +6,11 @@
 		{"id":"dfaf73a0836f5613","type":"text","text":"Popup med Fråga: (Placera ut pin på plats-x)","x":-155,"y":210,"width":250,"height":60},
 		{"id":"ab3057dc650cc943","type":"text","text":"Följdfrågor kopplat till platsen/ämnet","x":-154,"y":370,"width":250,"height":60},
 		{"id":"d593cd90697282fd","type":"text","text":"Svårighetsgrad?\nLätt Medel Svårt (Herman Lindkvist?)","x":220,"y":-108,"width":310,"height":77},
-		{"id":"6d65b94e61587a91","x":-554,"y":-99,"width":250,"height":60,"type":"text","text":"Ex. WW1, WW2 etc."},
-		{"id":"2ff4778d15c16f57","x":-820,"y":59,"width":375,"height":211,"type":"text","text":"Karta:\n -  Pinpoint med radie baserat på poäng\n - Pinpointern startpunkt randomiseras i förhållande till måltavlan.\n - Kartinfo + frågeinfo hämtas från groq (API nyckel finns)"},
-		{"id":"0bcdccd27a9255f5","x":-820,"y":322,"width":250,"height":156,"type":"text","text":"Följdfrågor bör koppas till vad som händer på platsen.\nEx. Pearl Harbor. Då är det frågor kopplat till den händelsen."},
+		{"id":"6d65b94e61587a91","type":"text","text":"Ex. WW1, WW2 etc.","x":-554,"y":-99,"width":250,"height":60},
+		{"id":"2ff4778d15c16f57","type":"text","text":"Karta:\n -  Pinpoint med radie baserat på poäng\n - Pinpointerns startpunkt randomiseras i förhållande till måltavlan.\n - Kartinfo + frågeinfo hämtas från groq (API nyckel finns)","x":-820,"y":59,"width":375,"height":211},
+		{"id":"0bcdccd27a9255f5","type":"text","text":"Följdfrågor bör kopplas till vad som händer på platsen.\nEx. Pearl Harbor. Då är det frågor kopplat till den händelsen.","x":-820,"y":322,"width":250,"height":156},
 		{"id":"7da1252c5e7cb33e","type":"text","text":"Samla ihop poäng. (Poängtavla? kanske)\n(Skriv ditt namn)","x":-176,"y":520,"width":294,"height":119},
-		{"id":"6370086268fc6680","x":-820,"y":-380,"width":250,"height":180,"type":"text","text":"Techstack:\n-  Netxt.js\n-  Typescript\n-  Tailwind CSS\n-   Additional Modules"}
+		{"id":"6370086268fc6680","type":"text","text":"Techstack:\n-  Next.js\n-  Typescript\n-  Tailwind CSS\n-   Additional Modules","x":-820,"y":-380,"width":250,"height":180}
 	],
 	"edges":[
 		{"id":"cf1ecd0129b97571","fromNode":"03a1410a82180bd9","fromSide":"bottom","toNode":"226399bb8a941fc8","toSide":"top"},
