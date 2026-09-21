@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "33f17289de198f22",
+        "id": "7e1df827dab4cbb4",
         "type": "tabs",
         "children": [
           {
-            "id": "2644c3a84e26c29d",
+            "id": "cc6177247ab30ebe",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "AI Coach Hackathon/Hackathon mindmap.canvas",
                 "viewState": {
-                  "x": -97.36795639132777,
-                  "y": 1016.0717872014202,
-                  "zoom": -0.3333333333333332
+                  "x": 6599.250363737922,
+                  "y": 4157.732618457604,
+                  "zoom": -0.24962820307137296
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,41 +25,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a88f6abd61f99f33",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e53ee8879abc2e9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Coach Hackathon/Cecilia Meeting Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cecilia Meeting Notes"
-            }
-          },
-          {
-            "id": "44e0997647a4c9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Coach Hackathon/Hackathon Lab Notes 14-9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hackathon Lab Notes 14-9"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,9 +44,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -209,35 +172,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "2644c3a84e26c29d",
+  "active": "cc6177247ab30ebe",
   "lastOpenFiles": [
-    "AI Coach Hackathon/Hackathon Lab Notes 14-9.md",
-    "AI Coach Hackathon/Hackathon mindmap.canvas",
+    "Pasted image 20260921142526.png",
+    "Pasted image 20260921142147.png",
+    "Pasted image 20260921141955.png",
+    "Pasted image 20260921141951.png",
+    "Pasted image 20260921141650.png",
+    "Pasted image 20260921141454.png",
+    "Pasted image 20260921141226.png",
+    "Pasted image 20260921141045.png",
+    "Pasted image 20260921140926.png",
+    "Pasted image 20260921134703.png",
     "AI Coach Hackathon/Cecilia Meeting Notes.md",
+    "AI Coach Hackathon/Hackathon Lab Notes 14-9.md",
     "Pasted image 20260920185124.png",
+    "AI Coach Hackathon/Hackathon mindmap.canvas",
     "AI Coach Hackathon/Handelsbanken Brief.md",
     "AI Coach Hackathon/Hackathon-lab-notes",
     "History Map Project/History Map Site architecture.canvas",
-    "History Map Project/History Map Site architecture 2.png",
     "Motorcycle Booking Engine Project/Motocycle Booking Engine Notes.md",
     "Motorcycle Booking Engine Project/Motorcycle Repair Booking Engine.md",
     "Motorcycle Booking Engine Project/OSM Data Update Agent.md",
-    "History Map Project/History Map Site architecture.png",
-    "Motorcycle Booking Engine Project/Mindmap.png",
     "Motorcycle Booking Engine Project/Mindmap.canvas",
-    "History Map Project/History Map Site architecture 1.png",
     "Motorcycle Booking Engine - Rapport.md",
     "Motorcycle Booking Engine Directory Structure.canvas",
     "AI-agents/AI-Agent structure.canvas",
     "AI Coach Hackathon",
     "Motorcycle Booking Engine Site Structure/1. Start-here.txt.md",
     "History Map Project/Geo History Guesser.md",
-    "Images/Pasted image 20251125150212.png",
-    "Images/Pasted image 20251125145909.png",
     "Images",
-    "Images/Pasted image 20251125150108.png",
-    "Images/Pasted image 20251125150140.png",
-    "Images/Pasted image 20251124210044.png",
     "Motorcycle Booking Engine Project/Motorcycle Repair Shop Directory.md",
     "History Map Project/History Map prompt.md",
     "History Map Project/History Map Notes.md",
