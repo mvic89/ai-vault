@@ -11,17 +11,14 @@
             "id": "cc6177247ab30ebe",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "AI Coach Hackathon/Hackathon mindmap.canvas",
-                "viewState": {
-                  "x": 6599.250363737922,
-                  "y": 4157.732618457604,
-                  "zoom": -0.24962820307137296
-                }
+                "file": "AI Coach Hackathon/Cecilia Meeting Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Hackathon mindmap"
+              "icon": "lucide-file",
+              "title": "Cecilia Meeting Notes"
             }
           }
         ]
@@ -174,6 +171,7 @@
   },
   "active": "cc6177247ab30ebe",
   "lastOpenFiles": [
+    "AI Coach Hackathon/Hackathon mindmap.canvas",
     "Pasted image 20260921142526.png",
     "Pasted image 20260921142147.png",
     "Pasted image 20260921141955.png",
@@ -186,8 +184,6 @@
     "Pasted image 20260921134703.png",
     "AI Coach Hackathon/Cecilia Meeting Notes.md",
     "AI Coach Hackathon/Hackathon Lab Notes 14-9.md",
-    "Pasted image 20260920185124.png",
-    "AI Coach Hackathon/Hackathon mindmap.canvas",
     "AI Coach Hackathon/Handelsbanken Brief.md",
     "AI Coach Hackathon/Hackathon-lab-notes",
     "History Map Project/History Map Site architecture.canvas",

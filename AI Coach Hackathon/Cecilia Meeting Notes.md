@@ -106,3 +106,25 @@ session.) the recording should keep important data secure. (maybe anonymise the 
 Davide's going to de-risk the ai
 
 nataliyas solutions chooses the goal and base the conversations on those goals
+
+---
+
+Monday 21/9
+
+She likes that due to the little amount of time you put into it, it still gives you important feedback.
+
+She likes that the recordings are destroyed but parts of the data is saved.
+
+She likes the bars that shows how much a person is speaking.
+
+the feedback can also be connected to the customer needs, if the person is quiet or don't speak much,
+maybe have that like a heads-up in the summary.
+
+A feature with that shows your visible trend over time. ex. maybe you're interrupted less and less this 5
+last meetings.
+
+should we have the feature with the customer training? or is it a bit too many features?
+
+the people at here work are doing a lot work so they need this small nudges of feedback, because they
+don't have the time to sit back and reflect for hours. So small re occurring feedback nudges that makes
+them continue to reflect on the meetings. (Make yourself ask 'How do I function in meetings').
