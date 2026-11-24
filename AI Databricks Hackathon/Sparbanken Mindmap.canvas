@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"865a92a5ae701887","x":-520,"y":-380,"width":604,"height":340,"type":"file","file":"Pasted image 20261124145258.png"},
+		{"id":"28aa78f571be1707","x":-343,"y":-560,"width":250,"height":60,"type":"text","text":"Brief"},
+		{"id":"57c15876300cd1d8","x":260,"y":-360,"width":414,"height":608,"type":"text","text":"Customer loses money due to:\n\n- forgotten subscriptions\n- unexpected price increases\n- potential fraudulent transactions\n\nidentifying these issues manually across hundreds of transactions is difficult, leaves unnecessary costs and suspicious activity unnoticed.\n\nOur Challenge:\n\nBuild a solution on Databricks that analyzes customer transactions to detect:\n\n- recurring payments\n- unused subscriptions\n- potentially fraudulent activity\n\nThe solution should explain & prioritize findings based on *financial impact* and *present clear, actionable recommendations* to help customer save money and protect their finances.\n"}
+	],
+	"edges":[
+		{"id":"b1a010a9a2edb911","fromNode":"28aa78f571be1707","fromSide":"bottom","toNode":"865a92a5ae701887","toSide":"top"},
+		{"id":"e5bcf77b266be67f","fromNode":"28aa78f571be1707","fromSide":"right","toNode":"57c15876300cd1d8","toSide":"top"}
+	]
+}
