@@ -11,17 +11,14 @@
             "id": "cc6177247ab30ebe",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "AI Databricks Hackathon/Sparbanken Mindmap.canvas",
-                "viewState": {
-                  "x": 67.83476330715513,
-                  "y": -151.0976252472368,
-                  "zoom": -0.6666666666666666
-                }
+                "file": "AI Databricks Hackathon/Peter Meeting Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sparbanken Mindmap"
+              "icon": "lucide-file",
+              "title": "Peter Meeting Notes"
             }
           }
         ]
@@ -176,9 +173,10 @@
   },
   "active": "cc6177247ab30ebe",
   "lastOpenFiles": [
+    "AI Databricks Hackathon/Sparbanken Mindmap.canvas",
+    "AI Databricks Hackathon/Peter Meeting Notes.md",
     "Pasted image 20261124145258.png",
     "AI Databricks Hackathon/Sparbanken Preperation Questions.md",
-    "AI Databricks Hackathon/Sparbanken Mindmap.canvas",
     "AI-agents/AI-Agent structure.canvas",
     "AI Coach Hackathon/Hackathon mindmap.canvas",
     "AI Databricks Hackathon",
@@ -194,7 +192,6 @@
     "Pasted image 20260921141650.png",
     "Pasted image 20260921141454.png",
     "Pasted image 20260921141226.png",
-    "Pasted image 20260921141045.png",
     "AI Coach Hackathon/Handelsbanken Brief.md",
     "AI Coach Hackathon/Hackathon-lab-notes",
     "History Map Project/History Map Site architecture.canvas",
