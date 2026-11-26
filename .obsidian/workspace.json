@@ -22,6 +22,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "24e87de97359e9c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "656b5da64de58311",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AI Databricks Hackathon/Sparbanken Pipeline.canvas",
+                "viewState": {
+                  "x": 1552.9174209998803,
+                  "y": -265.8845227700215,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sparbanken Pipeline"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,10 +194,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc6177247ab30ebe",
+  "active": "656b5da64de58311",
   "lastOpenFiles": [
-    "AI Databricks Hackathon/Sparbanken Mindmap.canvas",
+    "AI Databricks Hackathon/ClaudeAI Questions.md",
+    "AI Databricks Hackathon/Sparbanken Pipeline.canvas",
     "AI Databricks Hackathon/Peter Meeting Notes.md",
+    "AI Databricks Hackathon/Sparbanken Mindmap.canvas",
     "Pasted image 20261124145258.png",
     "AI Databricks Hackathon/Sparbanken Preperation Questions.md",
     "AI-agents/AI-Agent structure.canvas",

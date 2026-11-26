@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"a11a4d7078aff3e1","x":-300,"y":-260,"width":250,"height":60,"type":"text","text":"##### 1. Collect Transaction Data"},
+		{"id":"d51207282b338785","x":-300,"y":-160,"width":250,"height":200,"type":"text","text":"Load all transactions for each customer: date, text, amount, and payment type (card, autogiro, e-faktura, Swish)."},
+		{"id":"1567e3ba8831b29f","x":98,"y":-260,"width":250,"height":60,"type":"text","text":"##### 2. Clean the names"},
+		{"id":"1d80ce747b4ab324","x":73,"y":-129,"width":301,"height":138,"type":"text","text":"Turn messy bank text into a clear name.  \n`SPOTIFY P1A2B3` → **Spotify** \n`TELIA SVERIGE AB 5566` → **Telia**"},
+		{"id":"9312075bd8da1417","x":526,"y":-261,"width":250,"height":60,"type":"text","text":"##### 3. Find what repeats"},
+		{"id":"8aa19a07755d1802","x":454,"y":-129,"width":395,"height":153,"type":"text","text":"Group payments by name and check whether they come back at a regular interval (weekly, monthly, quarterly, yearly) with roughly the same amount. If they do, it's a recurring payment."},
+		{"id":"12b5ce3335885a54","x":1038,"y":-260,"width":250,"height":60,"type":"text","text":"##### 4. Put it in a category"},
+		{"id":"a0a7a792b71cf83f","x":966,"y":-129,"width":395,"height":415,"type":"text","text":"Give each recurring payment a category, so the customer sees the big picture:\n\n|Category|Examples|\n|---|---|\n|Housing|Rent, mortgage, electricity, home insurance|\n|Connectivity|Broadband, mobile|\n|Entertainment|Netflix, Spotify, Storytel|\n|News|Sydsvenskan, DN|\n|Tools & storage|iCloud, Google One, ChatGPT, Claude|\n|Hobbies|Gym, padel, clubs|\n|Giving|Charities, monthly donations|"},
+		{"id":"219c9e591e6ed697","x":940,"y":360,"width":447,"height":120,"type":"text","text":"It also helps to tag each one as **\"must have\"** (rent, electricity) or **\"nice to have\"** (streaming, apps). That decides what you suggest later."},
+		{"id":"87bef10d21ee6a5d","x":1564,"y":-260,"width":250,"height":60,"type":"text","text":"##### 5. Calculate and compare"},
+		{"id":"aa068df515555e13","x":1440,"y":-100,"width":499,"height":287,"type":"text","text":"For each payment, work out:\n\n- the **monthly and yearly cost** (people react much more to \"1 548 kr per year\" than to \"129 kr per month\")\n- the **price change**: is it more expensive than before? By how much?\n- **overlaps**: two services doing the same job, e.g. both Netflix and HBO, or both iCloud and Google One\n- **new ones**: a subscription that started recently, maybe after a free trial"},
+		{"id":"4fead4c947a2687d","x":2040,"y":-260,"width":327,"height":57,"type":"text","text":"##### 6. Show it and let the customer act"},
+		{"id":"1723fe31599b0c94","x":1993,"y":-100,"width":422,"height":408,"type":"text","text":"This is where the customer gets awareness and control.\n\n- **An overview:** \"You have 14 recurring payments. They cost **4 870 kr per month / 58 440 kr per year**.\"\n- **Alerts, sorted by money:** \"Your broadband went up from 399 to 449 kr, which adds 600 kr per year.\" Biggest savings first.\n- **A simple choice for each payment:** _Keep_, _Cancel_ (with a link or guide), or _Not sure, remind me later_\n- **A budget limit:** \"Warn me if my subscriptions go above 3 000 kr/month.\"\n- **Upcoming payments:** \"Next week: Netflix 139 kr, Telia 449 kr.\""}
+	],
+	"edges":[
+		{"id":"086822ccf09556b4","fromNode":"a11a4d7078aff3e1","fromSide":"bottom","toNode":"d51207282b338785","toSide":"top"},
+		{"id":"5102e7a98bb087bb","fromNode":"a11a4d7078aff3e1","fromSide":"right","toNode":"1567e3ba8831b29f","toSide":"left"},
+		{"id":"9612fbdbc13521ea","fromNode":"1567e3ba8831b29f","fromSide":"bottom","toNode":"1d80ce747b4ab324","toSide":"top"},
+		{"id":"ef4f17ec3ab54646","fromNode":"1567e3ba8831b29f","fromSide":"right","toNode":"9312075bd8da1417","toSide":"left"},
+		{"id":"34724d62858affad","fromNode":"9312075bd8da1417","fromSide":"bottom","toNode":"8aa19a07755d1802","toSide":"top"},
+		{"id":"1472e108b8e01b36","fromNode":"9312075bd8da1417","fromSide":"right","toNode":"12b5ce3335885a54","toSide":"left"},
+		{"id":"f2a4646f4bb10ec9","fromNode":"12b5ce3335885a54","fromSide":"bottom","toNode":"a0a7a792b71cf83f","toSide":"top"},
+		{"id":"e524c1ab03a3f315","fromNode":"12b5ce3335885a54","fromSide":"right","toNode":"87bef10d21ee6a5d","toSide":"left"},
+		{"id":"9339763d90484956","fromNode":"a0a7a792b71cf83f","fromSide":"bottom","toNode":"219c9e591e6ed697","toSide":"top"},
+		{"id":"3271d43cb39109a4","fromNode":"87bef10d21ee6a5d","fromSide":"bottom","toNode":"aa068df515555e13","toSide":"top"},
+		{"id":"a0c1e5ec4a2e0745","fromNode":"87bef10d21ee6a5d","fromSide":"right","toNode":"4fead4c947a2687d","toSide":"left"},
+		{"id":"00275b0608c36a65","fromNode":"4fead4c947a2687d","fromSide":"bottom","toNode":"1723fe31599b0c94","toSide":"top"}
+	]
+}
